@@ -20,6 +20,6 @@ This link may provide an easier way to navigate the entire project structure and
 
 The detailed project report is available for review:
 
-- [View PRBX Report (Preview)](https://drive.google.com/drive/folders/1paU5WOmF7m608ortQqb4C_S0o_95EmrQ)
 - [Download PRBX Report (PDF)](PRBX%20Report.pdf)
+- [View PRBX Report (Preview)](https://drive.google.com/drive/folders/1paU5WOmF7m608ortQqb4C_S0o_95EmrQ/preview)
 
