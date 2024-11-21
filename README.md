@@ -25,26 +25,27 @@ network were able to achieve the highest accuracies, obtaining up to
 
 ---
 
-## Contents
--  **1 - Introduction**
+## Report Contents
+
+### **1 - Introduction**
 -  1.1 - Motivation
 -  1.2 - Objectives
 
--  **2 - Literature Review**
+### **2 - Literature Review**
 -  2.1 - Investgation of Data Pre-Processing Methods
 -  2.2 - Investigation of Decision Trees
 -  2.3 - Investigation of Support Vector Machines
 -  2.4 - Investigation of Convoluted Nerural Networks
 
--  **3 - Methodology**
+### **3 - Methodology**
 -  3.1 - Pre-Processing of Data
 -  3.2 - Implementation of the Dexision Tree
 -  3.3 - Implementation of the Support Vector Machine
 -  3.4 - Implementation of the Convoluted Nerual Network
 
--  **4 - Comparisons of the Models**
+### **4 - Comparisons of the Models**
 
--  **5 - Conclusion & Future Work**
+### **5 - Conclusion & Future Work**
 
 ---
 
