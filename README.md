@@ -16,6 +16,8 @@ This link may provide an easier way to navigate the entire project structure and
 
 ---
 
-## About the Dataset
+## Project Report
 
-This project utilizes GPS trajectory data for travel mode classification. The dataset, alongside other generated files and documentation, is essential for understanding the scope and implementation of the project.
+The detailed project report is available for review:
+
+[Download PRBX Report (PDF)](PRBX%20Report.pdf)
